@@ -13,3 +13,4 @@ ggplot(data=data , aes(x=month_txt,y= RMAX)) +
   labs(x = "Month") + 
   labs(y = "Monthly Maximum  Rainfall (mm)")+
   ggtitle("Monthly Maximum Rainfall - Kaohsiung (1998-2019)")
+
